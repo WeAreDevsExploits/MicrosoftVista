@@ -1,0 +1,8 @@
+{--THIS IS THE CLIENT FOR WINDOWS XP SIMUALTOR--}
+{-DO NOT DELTE THIS CLIENT SCRIPT-}
+local script.client = true
+if not script then
+changeParent = Client
+rename("WindowsControlClient")
+script.Equals = false
+end(clientscript)

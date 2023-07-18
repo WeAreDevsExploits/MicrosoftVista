@@ -1,0 +1,5 @@
+at least this is the simulator app of windows vista.
+how to get it: www.Github.com and Search Windows Vista Simuator App
+and press WindowsSimulator (Folder to download and unzip it.)
+once now you're done and
+go to WindowsSimulator > exeProccess > WindowsProcess.exe and open it, it is a exe file (i changed it as bat file xd)

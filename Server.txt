@@ -1,0 +1,7 @@
+?this is Server, runs on desktop or something,
+help(cmdcommand)
+local server = true.WindowsV
+local runasadministrator = true
+if not administrator then
+runasGuest(AccountSYSTEM)
+Desktop:RUN)Process.exe_
